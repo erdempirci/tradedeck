@@ -1,0 +1,14 @@
+{
+  "accountId": "mt5-demo-001",
+  "platform": "MT5",
+  "broker": "Example Broker",
+  "balance": 50000,
+  "equity": 50250,
+  "todayPnl": 350,
+  "floatingPnl": 250,
+  "drawdownPct": 1.2,
+  "positions": [
+    {"symbol": "EURUSD", "side": "BUY", "lots": 0.5, "openPrice": 1.1712, "pnl": 125}
+  ],
+  "timestamp": "2026-08-17T10:00:00+03:00"
+}
